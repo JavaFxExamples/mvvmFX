@@ -26,7 +26,7 @@ the main project would fail.
        <maven.compiler.source>11</maven.compiler.source>
        <maven.compiler.target>11</maven.compiler.target>
 
-       <java.version>11</java.version>
+       <java.version>14</java.version>
        <mvvmfx.version>${mvvmfx.version}</mvvmfx.version>
     </properties>
  ```
